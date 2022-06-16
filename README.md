@@ -23,6 +23,8 @@ File Manager app has clean and simple UI!
 - Sort by name works on current directory
 
 ### Todo
+- [ ] Copy/move operation
+- [ ] Open file location option for recent files
 - [ ] More sort by options 
 - [ ] Multiple select file/folder
 - [ ] Storage stats
