@@ -21,10 +21,12 @@ File Manager app has clean and simple UI!
 ### Known bugs
 - Navigation back issue
 - Sort by name works on current directory
+- Shows system files and logs in recent
 
 ### Todo
 - [ ] Copy/move operation
 - [ ] Open file location option for recent files
+- [ ] Toggle for show hiden files
 - [ ] More sort by options 
 - [ ] Multiple select file/folder
 - [ ] Storage stats
