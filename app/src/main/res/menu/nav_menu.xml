@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/nav_home"
+            android:icon="@drawable/ic_nav_home"/>
+        <item
+            android:id="@+id/nav_interal"
+            android:title="@string/nav_internal"
+            android:icon="@drawable/ic_nav_folder"/>
+        <item
+            android:id="@+id/nav_sd"
+            android:title="@string/nav_sd"
+            android:icon="@drawable/ic_nav_sd"/>
+    </group>
+
+    <item
+        android:title="Folders">
+        <menu>
+            <item
+                android:id="@+id/nav_download"
+                android:title="@string/download"
+                android:icon="@drawable/ic_folder_special"/>
+            <item
+                android:id="@+id/nav_music"
+                android:title="@string/music"
+                android:icon="@drawable/ic_folder_special"/>
+            <item
+                android:id="@+id/nav_dcim"
+                android:title="@string/dcim"
+                android:icon="@drawable/ic_folder_special"/>
+            <item
+                android:id="@+id/nav_movies"
+                android:title="@string/movies"
+                android:icon="@drawable/ic_folder_special"/>
+        </menu>
+    </item>
+
+    <item
+        android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:title="@string/nav_about"
+                android:icon="@drawable/ic_nav_about"/>
+        </menu>
+    </item>
+</menu>

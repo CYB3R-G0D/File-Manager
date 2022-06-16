@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_internal">Internal</string>
+    <string name="nav_sd">SD Card</string>
+    <string name="nav_about">About</string>
+    <string name="Filename">Filename</string>
+    <string name="Filesize">Size</string>
+    <string name="Filedate">Date</string>
+    <string name="Otion">Details</string>
+    <string name="ok">OK</string>
+    <string name="rename">Rename</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="detailText">Details</string>
+    <string name="detailTitle">Title</string>
+
+    <string name="download">Download</string>
+    <string name="music">Music</string>
+    <string name="dcim">DCIM</string>
+    <string name="movies">Movies</string>
+    
+    <string name="card_images">Images</string>
+    <string name="card_videos">Videos</string>
+    <string name="card_musics">Musics</string>
+    <string name="card_docs">Docs</string>
+    <string name="card_downloads">Downloads</string>
+    <string name="card_apks">APKs</string>
+
+    <string name="recent">Recent</string>
+
+    <string name="open_drawer">Open Navigation</string>
+    <string name="close_drawer">Close navigation</string>
+</resources>

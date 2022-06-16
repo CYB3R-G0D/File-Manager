@@ -1,0 +1,4 @@
+You can now manage files with the free, open-source and privacy friendly File Manager app.
+It supports a variety of file formats including music, movies, photos, documents, APKs, and zip files.
+It includes basic functions like easy searching, deleting, opening, sharing, and renaming files.
+File Manager app has clean and simple UI!

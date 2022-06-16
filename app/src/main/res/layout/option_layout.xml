@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/optionImg"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/ic_nav_about"/>
+
+    <TextView
+        android:id="@+id/optionTxt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/Otion"
+        android:textSize="15sp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:singleLine="true"/>
+
+</LinearLayout>
